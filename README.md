@@ -1,2 +1,2 @@
-# Password-Strength-Checker
+# password-strength-checker
 A Python tool to check password strength using entropy, length, and complexity.
